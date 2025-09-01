@@ -1,0 +1,8 @@
+---
+# This layout wraps basic content pages
+---
+{% layout default %}
+<article class="page">
+  {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+  {{ content }}
+</article>

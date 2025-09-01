@@ -1,0 +1,18 @@
+title: "Parjanya Vyas"
+description: "PhD dissertation and publications"
+baseurl: ""
+url: "https://yourusername.github.io"
+permalink: pretty
+
+# Navigation
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Dissertation"
+    link: "/dissertation/"
+  - name: "Publications"
+    link: "/publications/"
+  - name: "About"
+    link: "/about/"
+  - name: "Contact"
+    link: "/contact/"
