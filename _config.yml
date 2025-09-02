@@ -3,6 +3,7 @@ description: "PhD dissertation and publications"
 baseurl: ""
 url: "https://parjanya-vyas.github.io"
 permalink: pretty
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Navigation
 nav:
