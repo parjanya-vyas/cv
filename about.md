@@ -1,9 +1,7 @@
 ---
-layout: page
-title: "About"
-permalink: /about/
+layout: default
+title: About Me
 ---
-
 # About
 
 I am a PhD candidate in Computer Science at the University of Waterloo. My research focuses on **mobile (Android) systems security**, with an emphasis on **access control** in Android and **Android Automotive (AAOS)**.
