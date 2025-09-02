@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Dissertation"
-permalink: /dissertation/
+permalink: /cv/dissertation/
 ---
 
 # Dissertation
