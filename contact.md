@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact"
-permalink: /cv/contact/
+permalink: /contact/
 ---
 
 # Contact
