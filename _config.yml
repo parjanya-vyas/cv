@@ -7,12 +7,12 @@ permalink: pretty
 # Navigation
 nav:
   - name: "Home"
-    link: "/"
+    link: "/cv"
   - name: "Dissertation"
-    link: "/dissertation/"
+    link: "/cv/dissertation/"
   - name: "Publications"
-    link: "/publications/"
+    link: "/cv/publications/"
   - name: "About"
-    link: "/about/"
+    link: "/cv/about/"
   - name: "Contact"
-    link: "/contact/"
+    link: "/cv/contact/"
